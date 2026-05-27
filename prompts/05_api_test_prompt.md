@@ -1,0 +1,1 @@
+Act as a senior SDET. Generate a Playwright API test for this endpoint. Include: a status code assertion, a response schema validation, at least one negative case, and a data builder for the request body. Explain any assumption you make about the API contract.
