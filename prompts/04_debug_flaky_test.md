@@ -1,0 +1,1 @@
+This test is failing intermittently. Before changing any code, analyse the test and give me three possible root causes. For each cause, explain what symptom it would produce and what the targeted fix would be.
